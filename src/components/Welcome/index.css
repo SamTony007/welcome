@@ -1,0 +1,20 @@
+/* Write your CSS here */
+body {
+  background-color: #1e293b;
+  color: #fff;
+}
+.main-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: #f0bb03;
+}
+.para {
+  color: #fff;
+}
+button {
+  display: none;
+}
